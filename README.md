@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jinyijiedrew
-- 👀 I’m interested in System & AI
+- 👀 I’m interested in HPC, System 4 AI
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me 2201178031@qq.com
