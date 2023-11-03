@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jinyijiedrew
+- 👋 Hi, I’m @drewjin(Jin Yijie)
 - 👀 I’m interested in HPC, System 4 AI
 - 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on nothing yet
+- 💞️ I’m looking to collaborate on nothing yet, looking 4 someone who love the same things!!
 - 📫 How to reach me 2201178031@qq.com
 
 <!---
