@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, HPC, System 4 AI
 - 🌱 I’m currently learning => Lang: CPP, Python, GO; Field: LLM, CV, MultiModal; FrameWork: PyTorch, Paddle Paddle, YOLOv8.
 - 💞️ I’m looking to collaborate on nothing yet, looking 4 someone who love the same things!!
-- 📫 How to reach me 2201178031@qq.com
+- 📫 How to reach me 2201178031@qq.com, jyj2431567@163.com
 
 <!---
 Jinyijiedrew/Jinyijiedrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
