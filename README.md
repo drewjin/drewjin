@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drewjin(Jin Yijie)
 - 👀 I’m interested in `AI`, `HPC`, `System 4 AI`
-- 🌱 I’m currently learning => **Lang**: `CPP`, `Python`; **Field**:`MultiModal`,`NLP`,`LLMs`.
-- 💞️ I’m working in one lab(`MultiModal` & `NLP`)!!
+- 🌱 Currently learning => **Lang**: `CPP/C/CUDA`, `Python`; **Field**:`MultiModal`,`NLP`,`LLMs`,`Alogrithm`,`Mathematics(Graph/Stochastic Process)`.
+- 💞️ Working in a lab(`MultiModal` & `NLP`)!!
 - 📫 How to reach me 2201178031@qq.com, jyj2431567@163.com
 
 <!---
