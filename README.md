@@ -7,6 +7,7 @@
 
 - **Member** of `Shanghai University Super Computing Team (SHUSCT)`.
 - 📫 How to reach me drewjin0827@gmail.com, jyj2431567@163.com
+- Visiting my Zhihu ![Drew](https://www.zhihu.com/people/drew-44-8)!
 
 <!---
 Jinyijiedrew/Jinyijiedrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
