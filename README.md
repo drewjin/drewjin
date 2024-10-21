@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drewjin(Yijie Jin)
+- 👋 Hi, I’m @drewjin(Yijie Jin), an Undergraduate of Shanghai University (SHU)
 - 👀 I’m interested in `AI`, `NLP`, `HPC`, `Machine Learning Systems (MLSys)`
 - 🌱 Currently learning => **Lang**: `CPP/C/CUDA`, `Python`; **Field**: `LLM/Efficient LLM`, `MultiModal`,`NLP`,`Alogrithm`,`Mathematics(Graph Theory/Stochastic Process)`.
 - **RA** of `Lab of Intelligent Technology and System (LITS)` in `School of Computer Engineering and Science (CES)`, `Shanghai University (SHU)`. Have done research in `Multimodal Sentiment Analysis (MSA)`.
