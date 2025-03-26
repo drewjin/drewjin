@@ -4,10 +4,11 @@
 - **RA** of `Lab of Intelligent Technology and System (LITS)` in `School of Computer Engineering and Science (CES)`, `Shanghai University (SHU)`. Have done research in `Multimodal Sentiment Analysis (MSA)`.
 
 - **Member** of `Shanghai University Super Computing Team (SHUSCT)`.
+- Currently doing research in `Efficient LLM` and `MLSys`
 - 📫 How to reach me drewjin0827@gmail.com, jyj2431567@163.com
 - Visit my Zhihu [Drew](https://www.zhihu.com/people/drew-44-8)!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewjin&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drewjin&count_private=true&theme=onedark&show_icons=true)
 
 <!---
 Jinyijiedrew/Jinyijiedrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
