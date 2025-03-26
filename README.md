@@ -7,6 +7,8 @@
 - 📫 How to reach me drewjin0827@gmail.com, jyj2431567@163.com
 - Visit my Zhihu [Drew](https://www.zhihu.com/people/drew-44-8)!
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+
 <!---
 Jinyijiedrew/Jinyijiedrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
