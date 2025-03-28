@@ -13,10 +13,8 @@
 
 🚀 Skills
 
-![](https://img.shields.io/badge/-python-3e74a2?style=for-the-badge&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-python-3e74a2?style=for-the-badge&logo=Python&logoColor=fff) ![](https://img.shields.io/badge/-C++-0057b8?style=for-the-badge&logo=C%2B%2B&logoColor=fff) ![](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=Go&logoColor=fff)
 
-![](https://img.shields.io/badge/-C++-0057b8?style=for-the-badge&logo=C%2B%2B&logoColor=fff)
-![](https://img.shields.io/badge/-Go-00add8?style=for-the-badge&logo=Go&logoColor=fff)
 ![](https://img.shields.io/badge/AI_Stack-PyTorch%20%7C%20JAX%20%7C%20Triton%20%7C%20CUDA-ee4c2c?style=for-the-badge)
 
 ![](https://img.shields.io/badge/-docker-2496ed?style=for-the-badge&logo=Docker&logoColor=fff)
