@@ -29,7 +29,7 @@
 
 😊 **Contact me**
 
-- ⌈ E-mail ⌋: `drewjin0827@gmail.com`, `jyj2431567@163.com`
+- E-mail: `drewjin0827@gmail.com`, `jyj2431567@163.com`
 
 - Visit my Zhihu [Drew](https://www.zhihu.com/people/drew-44-8)!
 
