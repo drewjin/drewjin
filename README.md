@@ -1,7 +1,3 @@
-<a href="#">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=drewjin&count_private=true&theme=transparent&show_icons=true" />
-</a>
-
 💭 **About Me**
 
 - 👋 Hi, I’m @drewjin(Yijie Jin), an Undergraduate of Shanghai University (SHU)
@@ -10,6 +6,10 @@
 - **RA** of `Lab of Intelligent Technology and System (LITS)` in `School of Computer Engineering and Science (CES)`, `Shanghai University (SHU)`. Have done research in `Multimodal Sentiment Analysis (MSA)`.
 - **Member** of `Shanghai University Super Computing Team (SHUSCT)`.
 - Currently doing research in `Efficient LLM` and `MLSys`
+
+<a href="#">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=drewjin&count_private=true&theme=transparent&show_icons=true" />
+</a>
 
 🚀 Skills
 
