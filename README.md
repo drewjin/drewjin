@@ -33,11 +33,6 @@
 
 - Visit my Zhihu [Drew](https://www.zhihu.com/people/drew-44-8)!
 
-</p>
-    <p align="center">
-    <img src="https://profile-counter.glitch.me/{drewjin}/count.svg" />
-</p>
-
 <!---
 Jinyijiedrew/Jinyijiedrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
