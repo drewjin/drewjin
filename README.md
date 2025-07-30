@@ -3,9 +3,9 @@
 - 👋 Hi, I’m @drewjin(Yijie Jin), an Undergraduate of Shanghai University (SHU)
 - 👀 I’m interested in `AI`, `NLP`, `HPC`, `Machine Learning Systems (MLSys)`
 - 🌱 Currently learning => **Lang**: `CPP/C/CUDA`, `Python`; **Field**: `LLM/Efficient LLM`, `MultiModal`,`NLP`,`Alogrithm`,`Mathematics(Graph Theory/Stochastic Process)`.
+- **RA** of `DENG Lab` in `Qingyuan Research Institute`, `Shanghai Jiaotong University (SJTU)`. Doing research in `Efficient GenAI` and `MLSys`.
 - **RA** of `Lab of Intelligent Technology and System (LITS)` in `School of Computer Engineering and Science (CES)`, `Shanghai University (SHU)`. Have done research in `Multimodal Sentiment Analysis (MSA)`.
 - **Member** of `Shanghai University Super Computing Team (SHUSCT)`.
-- Currently doing research in `Efficient LLM` and `MLSys`
 
 <a href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=drewjin&count_private=true&theme=transparent&show_icons=true" />
@@ -20,9 +20,9 @@
 <!--- ![](https://img.shields.io/badge/AI_Stack-PyTorch%20%7C%20JAX%20%7C%20Triton%20%7C%20CUDA-ee4c2c?style=for-the-badge) --->
 
 ![](https://img.shields.io/badge/-PyTorch-ee4c2c?style=for-the-badge&logo=PyTorch&logoColor=fff)
-![](https://img.shields.io/badge/-JAX-6610f2?style=for-the-badge&logo=JAX&logoColor=fff)
 ![](https://img.shields.io/badge/-Triton-000000?style=for-the-badge&logo=Triton&logoColor=fff)
 ![](https://img.shields.io/badge/-CUDA-28a745?style=for-the-badge&logo=CUDA&logoColor=fff)
+![](https://img.shields.io/badge/-JAX-6610f2?style=for-the-badge&logo=JAX&logoColor=fff)
 
 ![](https://img.shields.io/badge/-docker-2496ed?style=for-the-badge&logo=Docker&logoColor=fff)
 ![](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=Linux&logoColor=fff)
