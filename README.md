@@ -1,7 +1,7 @@
 💭 **About Me**
 
 - 👋 Hi, I’m @drewjin(Yijie Jin), an Incoming PhD @ SJTU
-- 👀 I’m interested in `Generative AI (Gen-AI)`, `Efficient Machine Learning`, and `Machine Learning Systems (MLSys)`
+- 👀 I’m interested in `Machine Learning Systems` and `Efficient Generative AI` 
 - **Member** of [DENG Lab @ SJTU](https://github.com/zhijie-group)
 
 <a href="#">
@@ -16,7 +16,8 @@
 <!--- ![](https://img.shields.io/badge/AI_Stack-PyTorch%20%7C%20JAX%20%7C%20Triton%20%7C%20CUDA-ee4c2c?style=for-the-badge) --->
 
 ![](https://img.shields.io/badge/-PyTorch-ee4c2c?style=for-the-badge&logo=PyTorch&logoColor=fff)
-![](https://img.shields.io/badge/-Triton-000000?style=for-the-badge&logo=Triton&logoColor=fff)
+![](https://img.shields.io/badge/-Triton-00bcd4?style=for-the-badge&logo=Triton&logoColor=fff)
+![](https://img.shields.io/badge/-TileLang-ff6f61?style=for-the-badge&logo=Triton&logoColor=fff)
 ![](https://img.shields.io/badge/-CUDA-28a745?style=for-the-badge&logo=CUDA&logoColor=fff)
 
 😊 **Contact me**
