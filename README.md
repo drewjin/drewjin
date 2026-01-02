@@ -4,10 +4,6 @@
 - 👀 I’m interested in `Machine Learning Systems` and `Efficient Generative AI` 
 - **Member** of [DENG Lab @ SJTU](https://github.com/zhijie-group)
 
-<a href="#">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=drewjin&count_private=true&theme=transparent&show_icons=true" />
-</a>
-
 🚀 Skills
 
 ![](https://img.shields.io/badge/-python-3e74a2?style=for-the-badge&logo=Python&logoColor=fff) 
