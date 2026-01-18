@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @drewjin(Yijie Jin), an Incoming PhD @ SJTU
 - 👀 I’m interested in `Machine Learning Systems` and `Efficient Generative AI` 
-- **Member** of [DENG Lab @ SJTU](https://github.com/zhijie-group)
+- **Member** of [DENG Lab @ SJTU](https://github.com/SJTU-DENG-Lab)
 
 🚀 Skills
 
