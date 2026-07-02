@@ -1,8 +1,8 @@
-💭 **About Me**
+### 💭 **About Me**
 
-👋 Hi, I’m @drewjin (Yijie Jin), an **incoming Ph.D. student** @ SJTU, a **Member** of [DENG Lab @ SJTU](https://github.com/SJTU-DENG-Lab), and a **Research Intern** of [Qwen](https://github.com/QwenLM).
+👋 Hi, I’m @drewjin (Yijie Jin), an ***Incoming Ph.D. Student*** of [DENG Lab @ SJTU](https://github.com/SJTU-DENG-Lab), and a ***Research Intern*** @ [Qwen](https://github.com/QwenLM).
 
-🎯 Focus
+### 🎯 **Focus**
 
 🔬 I conduct in-depth research at the intersection of ***Machine Learning Systems*** and ***Efficient Generative AI***, with a focus on ***Algorithm-System Co-Design***. Specifically, I'm interested in:
 
@@ -10,7 +10,7 @@
 - **DLM as Speculative Decoding Drafter**: leveraging DLMs for efficient autoregressive generation
 - **Efficient Interactive World Models**: exploring algo-sys co-optimizations for real-time efficiency of interactive world simulation
 
-🚀 Skills
+### 🚀 **Skills**
 
 ![](https://img.shields.io/badge/-python-3e74a2?style=for-the-badge&logo=Python&logoColor=fff) 
 ![](https://img.shields.io/badge/-C++-0057b8?style=for-the-badge&logo=C%2B%2B&logoColor=fff) 
@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/-TileLang-ff6f61?style=for-the-badge&logo=Triton&logoColor=fff)
 ![](https://img.shields.io/badge/-CUDA-28a745?style=for-the-badge&logo=CUDA&logoColor=fff)
 
-😊 **Contact me**
+### 😊 **Contact me**
 
 - E-mail: `drewjin0827@gmail.com`
 
