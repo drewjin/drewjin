@@ -1,6 +1,6 @@
 ### 💭 **About Me**
 
-👋 Hi, I’m @drewjin (Yijie Jin), an ***Incoming Ph.D. Student*** of [DENG Lab @ SJTU](https://github.com/SJTU-DENG-Lab), and a ***Research Intern*** @ [Qwen](https://github.com/QwenLM).
+👋 Hi, I’m @drewjin (Yijie Jin), an ***Incoming Ph.D. Student*** of [DENG Lab](https://github.com/SJTU-DENG-Lab) @ [SJTU](https://en.sjtu.edu.cn/), and a ***Research Intern*** @ [Qwen](https://github.com/QwenLM).
 
 ### 🎯 **Focus**
 
