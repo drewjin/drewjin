@@ -22,7 +22,7 @@
 ![](https://img.shields.io/badge/-TileLang-ff6f61?style=for-the-badge&logo=Triton&logoColor=fff)
 ![](https://img.shields.io/badge/-CUDA-28a745?style=for-the-badge&logo=CUDA&logoColor=fff)
 
-### 😊 **Contact me**
+### 😊 **Contact Me**
 
 - E-mail: `drewjin0827@gmail.com`
 
