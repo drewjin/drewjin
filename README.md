@@ -1,8 +1,16 @@
 💭 **About Me**
 
-- 👋 Hi, I’m @drewjin(Yijie Jin), an Incoming PhD @ SJTU
-- 👀 I’m interested in `Machine Learning Systems` and `Efficient Generative AI` 
+- 👋 Hi, I’m @drewjin (Yijie Jin), an incoming Ph.D. student @ SJTU
 - **Member** of [DENG Lab @ SJTU](https://github.com/SJTU-DENG-Lab)
+- **Research Intern** of [Qwen](https://github.com/QwenLM)
+
+🎯 Focus
+
+🔬 I conduct in-depth research at the intersection of ***Machine Learning Systems*** and ***Efficient Generative AI***, with a focus on ***Algorithm-System Co-Design***. Specifically, I'm interested in:
+
+- **Diffusion Language Models**: modeling, acceleration, and the corresponding inference infrastructure (checkout [Diffulex](https://sjtu-deng-lab.github.io/mbd-lms/))
+- **DLM as Speculative Decoding Drafter**: leveraging DLMs for efficient autoregressive generation
+- **Efficient Interactive World Models**: exploring algo-sys co-optimizations for real-time efficiency of interactive world simulation
 
 🚀 Skills
 
