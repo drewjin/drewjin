@@ -7,6 +7,7 @@
 🔬 I conduct in-depth research at the intersection of ***Machine Learning Systems*** and ***Efficient Generative AI***, with a focus on ***Algorithm-System Co-Design***. Specifically, I'm interested in:
 
 - **Diffusion Language Models**: modeling, acceleration, and the corresponding inference infrastructure (checkout [Diffulex](https://sjtu-deng-lab.github.io/mbd-lms/))
+- **Co-Design Recursive Self-Improvement**: towards the self improvement and evolving of efficient model architectures and inference systems
 - **Efficient Interactive World Models**: exploring algo-sys co-optimizations for real-time efficiency of interactive world simulation
 
 ### 🚀 **Skills**
