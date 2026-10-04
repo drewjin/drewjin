@@ -1,14 +1,14 @@
 ### 💭 **About Me**
 
-👋 Hi, I’m @drewjin (Yijie Jin), an ***Incoming Ph.D. Student*** of [DENG Lab](https://github.com/SJTU-DENG-Lab) @ [SJTU](https://en.sjtu.edu.cn/), and a ***Research Intern*** @ [Qwen](https://github.com/QwenLM).
+👋 Hi, I’m @drewjin (Yijie Jin), ***Ph.D. Student*** of [DENG Lab](https://github.com/SJTU-DENG-Lab) @ [SJTU](https://en.sjtu.edu.cn/), ***Research Intern*** @ [Qwen](https://github.com/QwenLM).
 
 ### 🎯 **Focus**
 
 🔬 I conduct in-depth research at the intersection of ***Machine Learning Systems*** and ***Efficient Generative AI***, with a focus on ***Algorithm-System Co-Design***. Specifically, I'm interested in:
 
-- **Diffusion Language Models**: modeling, acceleration, and the corresponding inference infrastructure (checkout [Diffulex](https://sjtu-deng-lab.github.io/mbd-lms/))
-- **Co-Design Recursive Self-Improvement**: towards the self improvement and evolving of efficient model architectures and inference systems
 - **Efficient Interactive World Models**: exploring algo-sys co-optimizations for real-time efficiency of interactive world simulation
+- **Co-Design Recursive Self-Improvement**: towards the self improvement and evolving of efficient model architectures and inference systems
+- **Diffusion Language Models**: modeling, acceleration, and the corresponding inference infrastructure (checkout [Diffulex](https://sjtu-deng-lab.github.io/mbd-lms/))
 
 ### 🚀 **Skills**
 
