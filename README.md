@@ -22,12 +22,6 @@
 ![](https://img.shields.io/badge/-TileLang-ff6f61?style=for-the-badge&logo=Triton&logoColor=fff)
 ![](https://img.shields.io/badge/-CUDA-28a745?style=for-the-badge&logo=CUDA&logoColor=fff)
 
-### 😊 **Contact Me**
-
-- E-mail: `drewjin0827@gmail.com`
-
-- Visit my Zhihu [Drew](https://www.zhihu.com/people/drew-44-8)!
-
 <!---
 Jinyijiedrew/Jinyijiedrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
