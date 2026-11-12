@@ -12,15 +12,9 @@
 
 ### 🚀 **Skills**
 
-![](https://img.shields.io/badge/-python-3e74a2?style=for-the-badge&logo=Python&logoColor=fff) 
-![](https://img.shields.io/badge/-C++-0057b8?style=for-the-badge&logo=C%2B%2B&logoColor=fff) 
-
-<!--- ![](https://img.shields.io/badge/AI_Stack-PyTorch%20%7C%20JAX%20%7C%20Triton%20%7C%20CUDA-ee4c2c?style=for-the-badge) --->
-
-![](https://img.shields.io/badge/-PyTorch-ee4c2c?style=for-the-badge&logo=PyTorch&logoColor=fff)
-![](https://img.shields.io/badge/-Triton-00bcd4?style=for-the-badge&logo=Triton&logoColor=fff)
-![](https://img.shields.io/badge/-TileLang-ff6f61?style=for-the-badge&logo=Triton&logoColor=fff)
-![](https://img.shields.io/badge/-CUDA-28a745?style=for-the-badge&logo=CUDA&logoColor=fff)
+![](https://img.shields.io/badge/-Codex-0057b8?style=for-the-badge&logo=TritonC%2B%2B&logoColor=fff) 
+![](https://img.shields.io/badge/-DSH-3e74a2?style=for-the-badge&logo=Triton&logoColor=fff) 
+![](https://img.shields.io/badge/-ClaudeCode-ee4c2c?style=for-the-badge&logo=Triton&logoColor=fff)
 
 <!---
 Jinyijiedrew/Jinyijiedrew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
